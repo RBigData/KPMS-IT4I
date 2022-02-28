@@ -1,0 +1,1 @@
+Exercise assignments will be posted in a separate [repository](https://github.com/RBigData/KPMS-IT4I-EX).
